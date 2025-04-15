@@ -1,7 +1,7 @@
 h1 { 
     
     color: darkgreen 
-    
+    text-align center;
 }
 
 .art-soulignement h1 {
@@ -11,15 +11,10 @@ h1 {
 
 
 h2 {
-    color: gold 
-   
-   
+    color: maroon     
 }
 
-/* "Le café ca réveile..pas de maux de tete, pour maigrir...Quel plaisir de boire " */
-
-h3 {
-    color: maroon;
+p,
+li {
+    font-size: small  
 }
-
-/* "FIN " */
